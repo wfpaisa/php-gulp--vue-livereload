@@ -17,7 +17,7 @@
 
 	<script>
 		var require = {
-			baseUrl: '/php-vue/public/',
+			baseUrl: '/php-vue/modulos/a/',
 			paths: {
 				'vue': '//cdn.jsdelivr.net/npm/vue/dist/vue',
 				'vuetify': '//cdn.jsdelivr.net/npm/vuetify/dist/vuetify'
@@ -48,7 +48,7 @@
 	</script>
 	<!-- <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script> -->
 	<!-- <script src="https://cdn.jsdelivr.net/npm/vuetify/dist/vuetify.js"></script> -->
-	<script data-main="js/main" src="//cdnjs.cloudflare.com/ajax/libs/require.js/2.3.5/require.js"></script>
+	<script data-main="public/main" src="//cdnjs.cloudflare.com/ajax/libs/require.js/2.3.5/require.js"></script>
 	<script src="http://192.168.0.23:35729/livereload.js?snipver=1"></script>
 </body>
 
