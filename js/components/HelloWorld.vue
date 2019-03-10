@@ -6,7 +6,7 @@
     >
       <v-flex xs12>
         <v-img
-          :src="`/assets/logo.svg`"
+          :src="`https://cdn.vuetifyjs.com/images/logos/vuetify-logo-300.png`"
           class="my-3"
           contain
           height="200"

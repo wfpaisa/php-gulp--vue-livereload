@@ -18,6 +18,7 @@
     "eslint-plugin-vue": "^5.2.2",
     "gulp": "^4.0.0",
     "gulp-babel": "^8.0.0",
+    "gulp-livereload": "^4.0.1",
     "gulp-rename": "^1.4.0",
     "gulp-vue-single-file-component": "^1.0.9"
   }
