@@ -15,6 +15,11 @@ para utilizar el componente es necesario pasarlo a train-case: `<hello-world>...
 ## Run
 
 ```bash
+// Install gulp cli
+$ npm install --global gulp-cli
+
+$ npm i
+
 // Compile all files
 $ gulp
 
